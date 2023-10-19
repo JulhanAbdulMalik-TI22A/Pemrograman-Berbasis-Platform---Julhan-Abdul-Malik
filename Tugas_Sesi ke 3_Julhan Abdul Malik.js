@@ -1,6 +1,5 @@
 // Tugas Sesi ke-3 _ Julhan Abdul Malik
 
-
 // Variabel dengan nama restaurant yang bertipe Object
 var restaurant = {
     name: "Restoran Enak",
