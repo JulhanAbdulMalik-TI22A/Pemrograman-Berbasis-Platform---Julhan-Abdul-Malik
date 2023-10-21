@@ -1,5 +1,3 @@
-// Program penghasilan salesman oleh Amelinda Renjani (20220040163)
-
 let pendapatanHarian = 510000; 
 
 let uangJasa;
